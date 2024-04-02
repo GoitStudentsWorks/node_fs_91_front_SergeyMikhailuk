@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoitStudentsWorks/node_fs_91_front_SergeyMikhailuk/",
+  "homepage": "https://GoitStudentsWorks.github.io/node_fs_91_front_SergeyMikhailuk/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.13.6",
