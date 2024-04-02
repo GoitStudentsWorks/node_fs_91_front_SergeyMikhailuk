@@ -14,7 +14,7 @@ import { store, persistor } from 'store';
 import routing from 'routes';
 
 const router = createBrowserRouter(createRoutesFromElements(routing()), {
-  basename: '/TaskPro-FrontEnd-Team5',
+  basename: '/node_fs_91_front_SergeyMikhailuk',
 });
 
 ReactDOM.createRoot(document.getElementById('root')).render(
